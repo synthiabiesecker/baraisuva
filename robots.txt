@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://raodoofood.birkinfang.com/sitemap.xml
